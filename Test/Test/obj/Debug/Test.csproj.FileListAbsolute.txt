@@ -27,3 +27,18 @@ c:\users\trekele\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.
 \\TREKELESPC\Users\Trekele\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.frmTester.resources
 \\TREKELESPC\Users\Trekele\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
 \\TREKELESPC\Users\Trekele\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.exe
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.pdb
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\Test.exe
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\Test.pdb
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\GMap.NET.Core.dll
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\GMap.NET.Core.xml
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.frmError.resources
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.frmTester.resources
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Trekele\Documents\GitHub\Tester\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache

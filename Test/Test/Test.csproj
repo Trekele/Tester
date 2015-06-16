@@ -54,12 +54,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmError.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmError.Designer.cs">
-      <DependentUpon>frmError.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmTester.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,9 +62,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmError.resx">
-      <DependentUpon>frmError.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmTester.resx">
       <DependentUpon>frmTester.cs</DependentUpon>
     </EmbeddedResource>

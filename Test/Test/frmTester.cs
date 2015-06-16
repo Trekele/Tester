@@ -45,10 +45,7 @@ namespace Test
             //Make sure that user keyed in all fields.
             if(txtAlertTitle.Text == string.Empty || txtAlertDescription.Text == string.Empty || !checkRadioButtons())
             {
-                using(frmError error = new frmError())
-                {
-                    error.ShowDialog();
-                }
+                MessageBox.Show("Please enter all required field");
             }
             //if the user entered in all of the required feilds, now butild sql query
             else
